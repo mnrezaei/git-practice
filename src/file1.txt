@@ -1,2 +1,3 @@
 hello
-it is file 1git 
+it is file1
+this is first edit on remote repo
